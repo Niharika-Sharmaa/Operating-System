@@ -31,3 +31,11 @@ do
 done
 
 echo ""
+
+#Output -
+
+#Enter number of prime numbers to display:
+#5
+
+#First 5 prime numbers are:
+#2 3 5 7 11

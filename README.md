@@ -46,14 +46,14 @@ Linked Allocation
 Indexed Allocation
 
 📌 Key Concepts Covered
-Process Creation (fork)
-CPU Scheduling (FCFS)
-Synchronization (Producer–Consumer)
-Deadlock Avoidance (Banker’s Algorithm)
-Page Replacement (FIFO)
-Disk Scheduling (FCFS)
-File Allocation Methods
-Shell Scripting Basics
+-Process Creation (fork)
+-CPU Scheduling (FCFS)
+-Synchronization (Producer–Consumer)
+-Deadlock Avoidance (Banker’s Algorithm)
+-Page Replacement (FIFO)
+-Disk Scheduling (FCFS)
+-File Allocation Methods
+-Shell Scripting Basics
 
 🎯 Objective
 To understand and implement core Operating System concepts through practical programs, including process management, scheduling, memory management, file systems, and inter-process communication.

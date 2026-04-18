@@ -46,3 +46,28 @@ echo "Total Marks : $total"
 echo "Percentage  : $percentage%"
 echo "Class       : $class"
 echo "-----------------------------"
+
+#Input -
+
+#Enter Student Name:
+#Niharika
+#Enter marks for Subject 1:
+#80
+#Enter marks for Subject 2:
+#70
+#Enter marks for Subject 3:
+#60
+
+#Output -
+#-----------------------------
+        MARKSHEET
+#-----------------------------
+#Name        : Niharika
+#Subject 1   : 80
+#Subject 2   : 70
+#Subject 3   : 60
+#-----------------------------
+#Total Marks : 210
+#Percentage  : 70%
+#Class       : First Class
+#-----------------------------
